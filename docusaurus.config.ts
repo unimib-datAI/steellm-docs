@@ -60,9 +60,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/steellmsocialui.png',
     navbar: {
-      title: 'stELLlm',
+      title: 'stEELlm',
       logo: {
-        alt: 'stELLlm',
+        alt: 'stEELlm',
         src: 'img/eel.svg',
       },
       items: [
