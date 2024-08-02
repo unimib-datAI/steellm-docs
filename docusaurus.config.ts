@@ -63,7 +63,7 @@ const config: Config = {
       title: 'stELLlm',
       logo: {
         alt: 'stELLlm',
-        src: 'img/steellm.png',
+        src: 'img/eel.svg',
       },
       items: [
         {

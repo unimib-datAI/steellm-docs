@@ -16,8 +16,10 @@ module.exports = {
         lg: "997px",
       },
       colors: {
-        purple: "#33027C",
-        lightpurple: "#bba8d7",
+        neonblue: "#02E3E3",
+        greenblue: "#1E6464",
+        background: "#FEFEFE",
+        blackground: "#001414",
       },
     },
   },
