@@ -58,7 +58,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/mammotab-social-card.png',
+    image: 'img/steellmsocialui.png',
     navbar: {
       title: 'stELLlm',
       logo: {
