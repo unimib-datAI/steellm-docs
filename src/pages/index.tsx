@@ -71,10 +71,7 @@ export default function Home(): JSX.Element {
                     Discover stEELlm, an innovative Semantic Table
                     Interpretation tool that transforms data analysis. Employing
                     the precisely tailored Mixtral 8x7B model, stEELlm excels at
-                    producing exact semantic annotations across varied datasets.
-                    Unlike standard heuristic-based algorithms, which struggle
-                    with varied data, our novel methodology provides unrivalled
-                    accuracy and insight.
+                    producing semantic annotations across varied datasets.
                   </p>
                   <p className="mt-4 text-lg leading-6 text-gray-700 dark:text-gray-100">
                     Key Features:
