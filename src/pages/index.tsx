@@ -13,15 +13,15 @@ import {
 
 const features = [
   {
-    name: "Advanced Entity Retrieval",
+    name: "Advanced Entity Disambiguation",
     description:
-      "Leveraging LamAPI (Label Matching API), s-elBat excels in IR-based Entity Retrieval (ER) with enhanced type-based filtering features for superior precision.",
+      "stEELlm leverages the fine-tuned Mixtral 8x7B model to accurately distinguish and annotate entities within tables.",
     icon: SquareChartGantt,
   },
   {
-    name: "Dynamic Entity Disambiguation",
+    name: "Generative Table Annotation",
     description:
-      "Adapts seamlessly to your data environment, employing tailored techniques for both scenarios with and without training datasets.",
+      "Designed to handle diverse datasets, stEELlm generates meaningful cell annotations by processing tables and entity lists.",
     icon: SquarePen,
   },
 ];
