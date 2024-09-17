@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
       <main>
         <img
           src="/steellm-docs/img/bblurryeel.svg"
-          className="absolute opacity-30 -top-[30rem]"
+          className="absolute opacity-30 -top-[10rem] -right-[-30rem] max-w-7xl"
         />
         <section className="mx-auto max-w-6xl relative z-10">
           <div className="mx-4 place-content-center lg:gap-12 xl:gap-12 lg:grid-cols-12 pb-12 pt-12">
@@ -43,10 +43,8 @@ export default function Home(): JSX.Element {
                   stEELlm
                 </h1>
                 <p className=" text-stone-800 dark:text-stone-100 sm:text-xl lg:mb-8 md:text-xl lg:text-2xl">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Leading the Future of Semantic Table Interpretation with
+                  Advanced CEA Task Focus and Fine-Tuned Mixtral 8x7B Technology
                 </p>
                 <a
                   href="/steellm-docs/docs/introduction"
@@ -70,10 +68,13 @@ export default function Home(): JSX.Element {
               <div className="flex flex-col justify-center lg:pr-8 lg:pt-4">
                 <div className="lg:max-w-lg">
                   <p className="mt-4 text-lg leading-6 text-gray-700 dark:text-gray-100">
-                    lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Discover stEELlm, an innovative Semantic Table
+                    Interpretation tool that transforms data analysis. Employing
+                    the precisely tailored Mixtral 8x7B model, stEELlm excels at
+                    producing exact semantic annotations across varied datasets.
+                    Unlike standard heuristic-based algorithms, which struggle
+                    with varied data, our novel methodology provides unrivalled
+                    accuracy and insight.
                   </p>
                   <p className="mt-4 text-lg leading-6 text-gray-700 dark:text-gray-100">
                     Key Features:
