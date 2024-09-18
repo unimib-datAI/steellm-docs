@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The prompts shown in this page are related to **Programming** prompts created to perform the cell entity annotation task on tables.
 
-## Programming Prompt (no pool of entities)
+## Programming Prompt (no candidates)
 
 **Input prompt**:
 
@@ -53,7 +53,7 @@ Q408,5895,Q12345,Q12345
 Q513,8848,Q12345,Q12345
 ```
 
-## Programming Prompt with pool of entities
+## Programming Prompt with candidates of entities
 
 **Input prompt**:
 

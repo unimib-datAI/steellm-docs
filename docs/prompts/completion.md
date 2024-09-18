@@ -6,7 +6,7 @@ sidebar_position: 3
 
 The prompts shown in this page are related to **Completion** prompts created to perform the cell entity annotation task on tables.
 
-## Completion Prompt (no example and no pool)
+## Completion Prompt (no example and no candidates)
 
 **Input prompt**:
 
@@ -50,7 +50,7 @@ The table T can be represented as a list of lists in Python as follows:
 T = [['Mont Blanc', '4810
 ```
 
-## Completion Prompt with example (no pool)
+## Completion Prompt with example (no candidates)
 
 **Input prompt**:
 
@@ -94,7 +94,7 @@ for i in range(len(table)):
 return wikidata
 ```
 
-## Completion Prompt with pool (no example)
+## Completion Prompt with candidates (no example)
 
 **Input prompt**:
 
@@ -146,7 +146,7 @@ the association between the elements of the table and the IDs in the pool is:
 The function should return the table with the Wikidata IDs instead of the names of
 ```
 
-## Completion Prompt with pool and with example
+## Completion Prompt with candidates and with example
 
 **Input prompt**:
 

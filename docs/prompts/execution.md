@@ -81,7 +81,7 @@ GENERAZIONE
 }
 ```
 
-## Execution Prompt with pool (no example)
+## Execution Prompt with candidates (no example)
 
 **Input prompt**:
 
@@ -125,7 +125,7 @@ public void testCellEntityAnnotation() throws Exception {
     rows.add(Arrays.asList("Kilimanjaro", "5895", "Tanzania", "East African Mountains
 ```
 
-## Execution Prompt with pool and with example
+## Execution Prompt with candidates and with example
 
 **Input prompt**:
 

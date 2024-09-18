@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The prompts shown in this page are related to **Request** prompts created to perform the cell entity annotation task on tables.
 
-## Request Prompt (no example and no pool)
+## Request Prompt (no example and no candidates)
 
 **Input prompt**:
 
@@ -46,7 +46,7 @@ for (int i = 1; i < table.length; i++) {
         // Get the cell value
 ```
 
-## Request Prompt with example (no pool)
+## Request Prompt with example (no candidates)
 
 **Input prompt**:
 
@@ -77,7 +77,7 @@ public static void main(String[] args) throws Exception {
 }
 ```
 
-## Request Prompt with pool (no example)
+## Request Prompt with candidates (no example)
 
 **Input prompt**:
 
@@ -109,7 +109,7 @@ GENERAZIONE
 <|im_end|>
 ```
 
-## Request Prompt with pool and with example
+## Request Prompt with candidates and with example
 
 **Input prompt**:
 
